@@ -26,6 +26,7 @@ source-repository head
 library
   exposed-modules:
       Lib
+      Sec3
   other-modules:
       Paths_hello_world
   hs-source-dirs:
